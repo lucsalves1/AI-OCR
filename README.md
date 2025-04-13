@@ -2,23 +2,23 @@ Este repositório documenta um projeto prático de reconhecimento de texto (OCR)
 
 As imagens utilizadas, foram:
 
-- ![Input 1](inputs/Img1.PNG)
-- ![Input 2](inputs/Img2.PNG)
+- ![Input 1](inputs/Img1.jpg)
+- ![Input 2](inputs/Img2.png)
 - ![Input 3](inputs/Img3.PNG)
 
 Resultados:
 
-- 📝 Output do **Input Img1**:
-  - ![Output Img1](outputs/Img1.PNG)
-  - ![Output Img2](outputs/Img2.PNG)
+- Output da Imagem 1:
+  - ![Output 1](outputs/Img1.PNG)
+  - ![Output 2](outputs/Img2.PNG)
 
-- 📝 Output do **Input Img2**:
-  - ![Output Img3](outputs/Img3.PNG)
-  - ![Output Img4](outputs/Img4.PNG)
+- Output da Imagem 2:
+  - ![Output 3](outputs/Img3.PNG)
+  - ![Output 4](outputs/Img4.PNG)
 
-- 📝 Output do **Input Img3**:
-  - ![Output Img5](outputs/Img5.PNG)
-  - ![Output Img6](outputs/Img6.PNG)
+- Output da Imagem 3:
+  - ![Output 5](outputs/Img5.PNG)
+  - ![Output 6](outputs/Img6.PNG)
 
 O Copilot se mostrou extremamente eficaz e preciso na conversão visual em texto, convertendo rapidamente as imagens apresentadas conservando o conteúdo apreentado.
 
